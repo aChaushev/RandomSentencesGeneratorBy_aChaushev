@@ -5,20 +5,20 @@ A simple console-based Java program.
 The program generates random sentences using a simple method for getting a random words.
 The *Generator* is based on the following model:
 <ul>
-o	<li>[Sentence] = [Who] +[Action] + [Detail].</li>
+	<li>[Sentence] = [Who] +[Action] + [Detail].</li>
 
-o	<li>**Who** = [Name + from + Place] example:("David from London").
+	<li>**Who** = [Name + from + Place] example:("David from London").
 	<ul>
 	<li>Names = {"Peter", "Michell", "Jane", "Steve", ...}<li>
 	<li>Places = {"Sofia", "Plovdiv", "Varna", "Burgas", ...}<li>
 	</ul>
-o	<li>**Action** = [Adverb] + [Verb] + [Noun] example: ("calmly watched the sunset").
+	<li>**Action** = [Adverb] + [Verb] + [Noun] example: ("calmly watched the sunset").
 	<ul>
 	<li>Verbs = {"eats", "holds", "sees", "plays with", "brings", ...}
 	<li>Nouns = {"stones", "cake", "apple", "laptop", "bikes", ...}
 	<li>Adverbs = {"slowly", "diligently", "warmly", "sadly", "rapidly", ...}
 	</ul>
-o	<li>**Details** = {"near the river", "at home", "in the park", ...}
+	<li>**Details** = {"near the river", "at home", "in the park", ...}
 	</li>
 </ul>	
 • Source code link: https://github.com/aChaushev/RandomSentencesGeneratorBy_aChaushev/blob/main/RandomSentences.java
