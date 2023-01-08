@@ -24,6 +24,6 @@ The *Generator* is based on the following model:
 	<ul></ul>
 	</li>
 </ul>	
-<img alt="Image" width="500px" src="assets/images/RandomSentences – Screenshot.png"></img>
+<img alt="Image" width="400px" src="assets/images/RandomSentences – Screenshot.png"></img>
 • Source code link: https://github.com/aChaushev/RandomSentencesGeneratorBy_aChaushev/blob/main/RandomSentences.java
 • ***by aChaushev***
