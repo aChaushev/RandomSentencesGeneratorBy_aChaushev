@@ -8,19 +8,19 @@ The *Generator* is based on the following model:
 	<li>[Sentence] = [Who] +[Action] + [Detail].
 		<ul></ul>
 	</li>
-	<li> **Who** = [Name + from + Place] example:("David from London").
+	<li> Who = [Name + from + Place] example:("David from London").
 	<ul>
 	<li>Names = {"Peter", "Michell", "Jane", "Steve", ...}</li>
 	<li>Places = {"Sofia", "Plovdiv", "Varna", "Burgas", ...}</li>
 	</ul>
 	</li>
-	<li> **Action** = [Adverb] + [Verb] + [Noun] example: ("calmly watched the sunset").
+	<li> Action = [Adverb] + [Verb] + [Noun] example: ("calmly watched the sunset").
 	<ul>
 	<li>Verbs = {"eats", "holds", "sees", "plays with", "brings", ...}</li>
 	<li>Nouns = {"stones", "cake", "apple", "laptop", "bikes", ...}</li>
 	<li>Adverbs = {"slowly", "diligently", "warmly", "sadly", "rapidly", ...}</li>
 	</ul>
-	<li> **Details** = {"near the river", "at home", "in the park", ...}
+	<li> Details = {"near the river", "at home", "in the park", ...}
 	<ul></ul>
 	</li>
 </ul>	
