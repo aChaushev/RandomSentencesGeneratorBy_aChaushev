@@ -5,7 +5,7 @@ A simple console-based Java program.
 The program generates random sentences using a simple method for getting a random words.
 The *Generator* is based on the following model:
 <ul>
-	<li>[Sentence] = [Who] +[Action] + [Detail].
+	<li>[Sentence] = ['Who'] +['Action'] + ['Detail'].
 		<ul></ul>
 	</li>
 	<li> Who = [Name + from + Place] example:("David from London").
@@ -24,5 +24,6 @@ The *Generator* is based on the following model:
 	<ul></ul>
 	</li>
 </ul>	
+
 • Source code link: https://github.com/aChaushev/RandomSentencesGeneratorBy_aChaushev/blob/main/RandomSentences.java
 • ***by aChaushev***
