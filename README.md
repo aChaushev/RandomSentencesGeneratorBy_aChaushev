@@ -1,19 +1,20 @@
 # "Random-Sentences-Generator"
-assets/images/RandomSentence-Pic.png
+<img alt="Image" width="200px" src="assets/images/RandomSentence-Pic.png"></img>
+
 A simple console-based Java program.
 The program generates random sentences using a simple method for getting a random words.
-The * *Generator* * is based on the following model:
+The *Generator* is based on the following model:
 
 o	[Sentence] = [Who] +[Action] + [Detail].
 
 o	**Who** = [Name + from + Place] example:("David from London").
-	- Names = {"Peter", "Michell", "Jane", "Steve", ...}
-	- Places = {"Sofia", "Plovdiv", "Varna", "Burgas", ...}
+	• Names = {"Peter", "Michell", "Jane", "Steve", ...}
+	• Places = {"Sofia", "Plovdiv", "Varna", "Burgas", ...}
 	
 o	**Action** = [Adverb] + [Verb] + [Noun] example: ("calmly watched the sunset").
-	- Verbs = {"eats", "holds", "sees", "plays with", "brings", ...}
-	- Nouns = {"stones", "cake", "apple", "laptop", "bikes", ...}
-	- Adverbs = {"slowly", "diligently", "warmly", "sadly", "rapidly", ...}
+	• Verbs = {"eats", "holds", "sees", "plays with", "brings", ...}
+	• Nouns = {"stones", "cake", "apple", "laptop", "bikes", ...}
+	• Adverbs = {"slowly", "diligently", "warmly", "sadly", "rapidly", ...}
 	
 o	**Details** = {"near the river", "at home", "in the park", ...}
 	
