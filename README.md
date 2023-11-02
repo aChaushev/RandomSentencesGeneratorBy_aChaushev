@@ -21,5 +21,3 @@ The *Generator* is based on the following model:
 
 • [Source code](https://github.com/aChaushev/RandomSentencesGeneratorBy_aChaushev/blob/main/RandomSentences.java)
 • ***by aChaushev***
-
-[![Run on Repl.it](https://replit.com/badge/github/aChaushev/RandomSentencesGeneratorBy_aChaushev)](https://replit.com/new/github/aChaushev/RandomSentencesGeneratorBy_aChaushev)
