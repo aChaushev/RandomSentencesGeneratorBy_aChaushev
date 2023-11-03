@@ -17,7 +17,15 @@ The *Generator* is based on the following model:
   
  *Screenshot:*
  
-<img alt="Image" width="400px" src="assets/images/RandomSentences – Screenshot.png"></img>
+ <img alt="Image" width="400px" src="assets/images/RandomSentences – Screenshot.png"></img>
+ 
+## Live Demo
 
+You can try the generator directly in your browser here:
+<br>
+<br>
+[![Run on Repl.it](https://replit.com/badge/github/aChaushev/RockPaperScissorsGameBy_aChaushev)](https://replit.com/@aChaushev/RandomSentencesGeneratorByaChaushev)
+<br>
+<br>
 • [Source code](https://github.com/aChaushev/RandomSentencesGeneratorBy_aChaushev/blob/main/RandomSentences.java)
 • ***by aChaushev***
